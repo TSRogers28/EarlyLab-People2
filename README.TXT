@@ -11,3 +11,6 @@ in Person.
 
 This project may be used to study object creation and method calls from
 within other object (non-interactive).
+
+
+Tommy Rogers
